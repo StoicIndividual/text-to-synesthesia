@@ -1,7 +1,4 @@
 #+TITLE: Text to synesthesia
 #+ATTR_HTML: :style margin-left: auto; margin-right: auto;
-* Screenshots
-** start
 [[./imgs/screenshot.png]]
-** example
 [[./imgs/screenshot2.png]]
