@@ -1,6 +1,6 @@
 #+TITLE: Text to synesthesia
 
 * some screen shots
-[[./imgs/screenshot.png]]
+[[/imgs/screenshot.png]]
 
-[[./imgs/screenshot2.png]]
+[[/imgs/screenshot2.png]]
