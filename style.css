@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#content .items {
+    margin-top: 20px;
+}
+
+#content textarea {
+    width: 500px;
+    height: 300px;
+    font-size: 20px;
+    font-family: DejaVu Serif;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+#content button {
+    width: 250px;
+}
+
+#content div {
+    border: 1px solid black;
+    width: 500px;
+    box-sizing: border-box;
+    padding: 20px;
+    font-size: 20px;
+    font-family: DejaVu Serif;
+}
+
+#content div p {
+    margin: 0;
+}
+
+/* Colored letters */
+
+/* vowels */
+.letterA {
+    color: red;   
+}
+
+.letterE {
+    color: green;   
+}
+
+.letterI {
+    color: grey;   
+}
+
+.letterO {
+    color: grey;   
+}
+
+.letterU {
+    color: orange;   
+}
+
+/* consonants */
+/* .letterB { */
+/*     color: blue;    */
+/* } */
+
+/* .letterC { */
+/*     color: yellow;    */
+/* } */
+
+/* .letterD { */
+/*     color: blue;    */
+/* } */
+
+/* .letterF { */
+/*     color: green;    */
+/* } */
+
+/* .letterG { */
+/*     color: green;    */
+/* } */
+
+/* .letterH { */
+/*     color: orange;    */
+/* } */
+
+/* .letterJ { */
+/*     color: orange;    */
+/* } */
+
+/* .letterK { */
+/*     color: orange;    */
+/* } */
+
+/* .letterL { */
+/*     color: yellow;    */
+/* } */
+
+/* .letterM { */
+/*     color: red;    */
+/* } */
+
+/* .letterN { */
+/*     color: orange;    */
+/* } */
+
+/* .letterP { */
+/*     color: purple;    */
+/* } */
+
+/* .letterQ { */
+/*     color: purple;    */
+/* } */
+
+/* .letterR { */
+/*     color: red;    */
+/* } */
+
+/* .letterS { */
+/*     color: yellow;    */
+/* } */
+
+/* .letterT { */
+/*     color: blue;    */
+/* } */
+
+/* .letterV { */
+/*     color: purple;    */
+/* } */
+
+/* .letterW { */
+/*     color: blue;    */
+/* } */
+
+/* .letterX { */
+/*     color: black;    */
+/* } */
+
+/* .letterY { */
+/*     color: yellow;    */
+/* } */
+
+/* .letterZ { */
+/*     color: black; */
+/* } */

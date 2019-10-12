@@ -1,0 +1,7 @@
+#+TITLE: Text to synesthesia
+
+* Screenshots
+** start
+[[./imgs/screenshot.png]]
+** example
+[[./imgs/screenshot2.png]]
