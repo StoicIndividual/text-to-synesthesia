@@ -1,3 +1,5 @@
 * some screen shots
+** normal
 [[./imgs/screenshot.png]]
+** example
 [[./imgs/screenshot2.png]]
