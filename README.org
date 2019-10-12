@@ -1,4 +1,1 @@
 * some screen shots
-[[/imgs/screenshot.png]]
-
-[[/imgs/screenshot2.png]]
