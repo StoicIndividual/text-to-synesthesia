@@ -1,5 +1,3 @@
-#+TITLE: Text to synesthesia
-
 * some screen shots
 [[/imgs/screenshot.png]]
 
