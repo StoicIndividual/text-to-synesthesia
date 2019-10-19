@@ -1,5 +1,5 @@
-* some screen shots
-** normal
+#+TITLE: Text To Synesthesia
+see a live demo at https://stoicindividual.github.io/text-to-synesthesia/
 [[./imgs/screenshot.png]]
-** example
+** Example
 [[./imgs/screenshot2.png]]
